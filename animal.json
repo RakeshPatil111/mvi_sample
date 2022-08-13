@@ -109,7 +109,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "15 - 35 years",
-    "image": "images/bear.jpg"
+    "image": "images/bear.png"
   },
   {
     "name": "Bison",
@@ -189,7 +189,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "12 - 20 years",
-    "image": "images/cow.jpg"
+    "image": "images/cow.png"
   },
   {
     "name": "Deer",
@@ -349,7 +349,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "1 - 8 years",
-    "image": "images/frog.png"
+    "image": "images/fron.png"
   },
   {
     "name": "Gecko",
@@ -413,7 +413,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "20 - 25 years",
-    "image": "images/giraffe.png"
+    "image": "images/girafe.png"
   },
   {
     "name": "Gorilla",
@@ -429,7 +429,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "35-50 years",
-    "image": "images/gorilla.png"
+    "image": "images/gorrila.png"
   },
   {
     "name": "Guinea Pig",
@@ -445,7 +445,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "3 - 8 years",
-    "image": "images/guineapig.png"
+    "image": "images/pig.png"
   },
   {
     "name": "Horse",
@@ -653,7 +653,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "10 - 15 years",
-    "image": "images/leopard.png"
+    "image": "images/leaopard.png"
   },
   {
     "name": "Lion",
