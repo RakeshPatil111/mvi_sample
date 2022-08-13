@@ -13,7 +13,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "30 - 60 years",
-    "image": "alligator.jpg"
+    "image": "images/alligator.png"
   },
   {
     "name": "Ant",
@@ -45,7 +45,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "9 - 20 years",
-    "image": "anteater.jpeg"
+    "image": "images/anteater.png"
   },
   {
     "name": "Antelope",
@@ -61,7 +61,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "10 - 25 years",
-    "image": "antelope.jpg"
+    "image": "images/antelope.png"
   },
   {
     "name": "Baboon",
@@ -77,7 +77,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "15 - 40 years",
-    "image": "baboon.jpg"
+    "image": "images/baboon.png"
   },
   {
     "name": "Bat",
@@ -93,7 +93,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "10 - 30 years",
-    "image": "bat.jpg"
+    "image": "images/bat.png"
   },
   {
     "name": "Bear",
@@ -109,7 +109,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "15 - 35 years",
-    "image": "bear.jpg"
+    "image": "images/bear.jpg"
   },
   {
     "name": "Bison",
@@ -125,7 +125,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "15 - 20 years",
-    "image": "bison.jpg"
+    "image": "images/bison.png"
   },
   {
     "name": "Camel",
@@ -141,7 +141,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "40 - 50 years",
-    "image": "camel.jpg"
+    "image": "images/camel.png"
   },
   {
     "name": "Cat",
@@ -157,7 +157,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "15 years",
-    "image": "cat.jpg"
+    "image": "images/cat.png"
   },
   {
     "name": "Cougar",
@@ -173,7 +173,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "10 - 20 years",
-    "image": "cougar.jpg"
+    "image": "images/cougar.png"
   },
   {
     "name": "Cow",
@@ -189,7 +189,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "12 - 20 years",
-    "image": "cow.jpg"
+    "image": "images/cow.jpg"
   },
   {
     "name": "Deer",
@@ -205,7 +205,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "10 - 20 years",
-    "image": "deer.jpg"
+    "image": "images/deer.png"
   },
   {
     "name": "Dog",
@@ -221,7 +221,7 @@
     },
     "diet": "Carnovore",
     "lifespan": "15 years",
-    "image": "dog.jpg"
+    "image": "images/dog.png"
   },
   {
     "name": "Duck",
@@ -237,7 +237,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "4 - 8 years",
-    "image": "duck.jpg"
+    "image": "images/duck.png"
   },
   {
     "name": "Dodo",
@@ -253,7 +253,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "10 - 30 years",
-    "image": "dodo.jpg"
+    "image": "images/dodo.png"
   },
   {
     "name": "Eagle",
@@ -269,7 +269,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "15 - 30 years",
-    "image": "eagle.jpg"
+    "image": "images/eagle.png"
   },
   {
     "name": "Elephant",
@@ -285,7 +285,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "55 - 70 years",
-    "image": "elephant.jpg"
+    "image": "images/elephant.png"
   },
   {
     "name": "Emu",
@@ -301,7 +301,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "12 - 20 years",
-    "image": "emu.jpg"
+    "image": "images/emu.png"
   },
   {
     "name": "Ferret",
@@ -317,7 +317,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "7 - 10 years",
-    "image": "ferret.jpg"
+    "image": "images/ferret.png"
   },
   {
     "name": "Fox",
@@ -333,7 +333,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "3 - 11 years",
-    "image": "fox.jpg"
+    "image": "images/fox.png"
   },
   {
     "name": "Frog",
@@ -349,7 +349,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "1 - 8 years",
-    "image": "frog.jpg"
+    "image": "images/frog.png"
   },
   {
     "name": "Gecko",
@@ -365,7 +365,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "2-9 years",
-    "image": "gecko.jpg"
+    "image": "images/gecko.png"
   },
   {
     "name": "Gerbil",
@@ -381,7 +381,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "3-5 years",
-    "image": "gerbil.jpg"
+    "image": "images/gerbil.png"
   },
   {
     "name": "Gibbon",
@@ -397,7 +397,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "25-40 years",
-    "image": "gibbon.jpg"
+    "image": "images/gibbon.png"
   },
   {
     "name": "Giraffe",
@@ -413,7 +413,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "20 - 25 years",
-    "image": "giraffe.jpg"
+    "image": "images/giraffe.png"
   },
   {
     "name": "Gorilla",
@@ -429,7 +429,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "35-50 years",
-    "image": "gorilla.jpg"
+    "image": "images/gorilla.png"
   },
   {
     "name": "Guinea Pig",
@@ -445,7 +445,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "3 - 8 years",
-    "image": "guineapig.jpg"
+    "image": "images/guineapig.png"
   },
   {
     "name": "Horse",
@@ -461,7 +461,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "25-30 years",
-    "image": "horse.jpg"
+    "image": "images/horse.png"
   },
   {
     "name": "Human",
@@ -477,7 +477,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "60-80 years",
-    "image": "human.jpg"
+    "image": "images/human.png"
   },
   {
     "name": "Hyena",
@@ -493,7 +493,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "20-25 years",
-    "image": "hyena.jpg"
+    "image": "images/Hyena.png"
   },
   {
     "name": "Impala",
@@ -509,7 +509,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "12-15 years",
-    "image": "impala.jpg"
+    "image": "images/impala.png"
   },
   {
     "name": "Iguana",
@@ -525,7 +525,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "15-20 years",
-    "image": "iguana.jpg"
+    "image": "images/iguana.png"
   },
   {
     "name": "Jaguar",
@@ -541,7 +541,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "12 - 15 years",
-    "image": "jaguar.jpg"
+    "image": "images/jaguar.png"
   },
   {
     "name": "Jellyfish",
@@ -557,7 +557,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "1-5 years",
-    "image": "jellyfish.jpg"
+    "image": "images/jellyfish.png"
   },
   {
     "name": "Kangaroo",
@@ -573,7 +573,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "4-10 years",
-    "image": "kangaroo.jpg"
+    "image": "images/kangaroo.png"
   },
   {
     "name": "Kiwi",
@@ -589,7 +589,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "8 - 12 years",
-    "image": "kiwi.jpg"
+    "image": "images/kiwi.png"
   },
   {
     "name": "Koala",
@@ -605,7 +605,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "15 - 20 years",
-    "image": "koala.jpg"
+    "image": "images/koala.png"
   },
   {
     "name": "Komodo Dragon",
@@ -621,7 +621,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "25 - 40 years",
-    "image": "komododragon.jpg"
+    "image": "images/komododragon.png"
   },
   {
     "name": "Lemur",
@@ -637,7 +637,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "10-14 years",
-    "image": "lemur.jpg"
+    "image": "images/lemur.png"
   },
   {
     "name": "Leopard",
@@ -653,7 +653,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "10 - 15 years",
-    "image": "leopard.jpg"
+    "image": "images/leopard.png"
   },
   {
     "name": "Lion",
@@ -669,7 +669,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "8 - 15 years",
-    "image": "lion.jpg"
+    "image": "images/lion.png"
   },
   {
     "name": "Llama",
@@ -685,7 +685,7 @@
     },
     "diet": "Herbivore",
     "lifespan": "15-20 years",
-    "image": "llama.jpg"
+    "image": "images/llama.png"
   },
   {
     "name": "Octopus",
@@ -701,7 +701,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "2-15 years",
-    "image": "octopus.jpg"
+    "image": "images/octopus.png"
   },
   {
     "name": "Opossum",
@@ -717,7 +717,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "2-7 years",
-    "image": "opossum.jpg"
+    "image": "images/opossum.png"
   },
   {
     "name": "Otter",
@@ -733,7 +733,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "15-25 years",
-    "image": "otter.jpg"
+    "image": "images/otter.png"
   },
   {
     "name": "Parrot",
@@ -749,7 +749,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "40 - 80 years",
-    "image": "parrot.jpeg"
+    "image": "images/parrot.png"
   },
   {
     "name": "Panther",
@@ -765,7 +765,7 @@
     },
     "diet": "Carnivore",
     "lifespan": "12 - 15 years",
-    "image": "panther.jpeg"
+    "image": "images/panther.jpg"
   },
   {
     "name": "Piranha",
@@ -781,7 +781,7 @@
     },
     "diet": "Omnivore",
     "lifespan": "20 - 25 years",
-    "image": "piranha.jpeg"
+    "image": "images/piranha.png"
   },
   {
     "name": "Puma",
@@ -797,6 +797,6 @@
     },
     "diet": "Carnivore",
     "lifespan": "10 - 15 years",
-    "image": "puma.jpg"
+    "image": "images/puma.jpg"
   }
 ]
